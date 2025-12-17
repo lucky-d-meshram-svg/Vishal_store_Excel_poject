@@ -1,5 +1,7 @@
 # 📊 Vishal Store – Excel Sales Analysis Dashboard
 
+![Vishal Store Excel Dashboard](Excel_project_vishal_store.PNG)
+
 ## Project Overview
 An Excel-based sales analysis dashboard built using Vishal Store retail data.  
 The project analyzes sales performance using KPIs, pivot tables, and interactive visuals to generate business insights.
@@ -27,5 +29,5 @@ The project analyzes sales performance using KPIs, pivot tables, and interactive
 - Dashboard Design  
 
 ## Business Value
-This project demonstrates KPI-driven analysis and understanding of retail sales metrics, not just chart creation.  
-It is relevant for data analyst and entry-level analytics roles.
+This project shows KPI-driven analysis and business understanding, not only charts.  
+It is suitable for data analyst and entry-level analyti

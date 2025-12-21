@@ -4,7 +4,7 @@
   
   ## Project Overview
 An Excel-based sales analysis dashboard built using Vishal Store retail data.  
-**View the project:** [Click here](https://docs.google.com/spreadsheets/d/1IQielSXbz1Ae68brpTBwlXwQVU4IUUPD/edit?usp=drive_link&ouid=112301804410512564263&rtpof=true&sd=true)
+**Get raw data:** [Click here](https://docs.google.com/spreadsheets/d/1IQielSXbz1Ae68brpTBwlXwQVU4IUUPD/edit?usp=drive_link&ouid=112301804410512564263&rtpof=true&sd=true)
 
   ## Key KPIs
   - Total Sales  

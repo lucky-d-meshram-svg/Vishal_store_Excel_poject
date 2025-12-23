@@ -30,4 +30,4 @@ An Excel-based sales analysis dashboard built using Vishal Store retail data.
   
   ## Business Value
   This project shows KPI-driven analysis and business understanding, not only charts.  
-  It is suitable for data analyst and entry-level analyti
+  It is suitable for data analyst and entry-level analysis i've done in this project
